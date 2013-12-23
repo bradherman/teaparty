@@ -1,4 +1,4 @@
-# Teaprty
+# Teaparty
 
 TODO: Write a gem description
 
@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'teaprty'
+    gem 'teaparty'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install teaprty
+    $ gem install teaparty
 
 ## Usage
 

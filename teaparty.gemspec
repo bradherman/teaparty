@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'teaprty/version'
+require 'teaparty/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "teaprty"
-  spec.version       = Teaprty::VERSION
+  spec.name          = "teaparty"
+  spec.version       = Teaparty::VERSION
   spec.authors       = ["Bradley Herman"]
   spec.email         = ["bradley.t.herman@gmail.com"]
   spec.description   = %q{TODO: Write a gem description}
