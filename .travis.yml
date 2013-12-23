@@ -1,0 +1,13 @@
+nguage: ruby
+bundler_args: --without development
+script: "bundle exec rspec -cfs spec"
+rvm:
+  - "2.0"
+  - "1.9.3"
+notifications:
+  email: bherman@bleacherreport.com
+services:
+  - rabbitmq
+branches:
+  only:
+    - master
